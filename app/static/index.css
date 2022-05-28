@@ -1,0 +1,30 @@
+.container{
+    margin: 0 auto;
+    width: 90vw;
+    margin-top: 25vh;
+    border: 1px solid red;
+}
+
+.box{
+    margin: 0 auto;
+    width: 50vw;
+}
+
+.centraliza{
+    margin: 0 auto;
+    margin-top: 15%;
+    text-align: center;
+    width: 90vw;
+    border: 1px solid red;
+    display: block;
+}
+
+body{
+    overflow-x: hidden;
+    margin: 0 auto;
+}
+
+.centraliza_input{
+    margin-left: 23vw;
+    text-align: center;
+}
