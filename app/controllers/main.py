@@ -2,7 +2,6 @@ from app.controllers.cod import cpf,cnpj
 from flask import render_template, request
 from app import app
 from app.models.forms import Campos
-import pyperclip as pc
 
 @app.route('/', methods=["GET","POST"])
 def index():
