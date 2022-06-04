@@ -9,6 +9,12 @@ em um site responsivo e aplicando algumas coisas de flask.
 
 Ainda estou arrumando alguns detalhes...
 
+### Você pode verificar que os dados gerados são válidos (matematicamente) nos links abaixo:
+
+Para validar o CPF gerado: https://www.4devs.com.br/validador_cpf
+
+Para validar o CNPJ gerado: https://www.4devs.com.br/validador_cnpj
+
 ## Veja a aplicação em
 
 https://mota-gv.herokuapp.com/
