@@ -1,2 +1,1 @@
-web /go-server-web
-worker: /go-server-worker
+web: gunicorn --bind 0.0.0.0:$PORT run:app
