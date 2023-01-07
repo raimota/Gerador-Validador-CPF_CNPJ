@@ -17,4 +17,4 @@ Para validar o CNPJ gerado: https://www.4devs.com.br/validador_cnpj
 
 ## Veja a aplicação em
 
-https://mota-gv.herokuapp.com/
+https://mota-gv.up.railway.app/
