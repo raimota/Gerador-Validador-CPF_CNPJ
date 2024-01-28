@@ -7,6 +7,6 @@ app.config.from_object('config')
 
 manager = Manager(app)
 
-from api.app import main
+from app.controllers import main
 from app.models import forms
 from app.templates import *
