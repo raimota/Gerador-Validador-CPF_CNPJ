@@ -15,6 +15,6 @@ Para validar o CPF gerado: https://www.4devs.com.br/validador_cpf
 
 Para validar o CNPJ gerado: https://www.4devs.com.br/validador_cnpj
 
-## Veja a aplicação em
+### Veja a aplicação
 
-https://mota-gv.up.railway.app/
+[![Run on Replit](https://replit.com/badge/github/Rmt/GV-CPFCNPJ-1)](https://replit.com/@Rmt/GV-CPFCNPJ-1)
